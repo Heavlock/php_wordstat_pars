@@ -1,0 +1,13 @@
+          <option value="0">Не выбран</option>
+          <option value="1">январь</option>
+          <option value="2">февраль</option>
+          <option value="3">март</option>
+          <option value="4">апрель</option>
+          <option value="5">май</option>
+          <option value="6">июнь</option>
+          <option value="7">июль</option>
+          <option value="8">август</option>
+          <option value="9">сент¤брь</option>
+          <option value="10">окт¤брь</option>
+          <option value="11">ноябрь</option>
+          <option value="12">декабрь</option>

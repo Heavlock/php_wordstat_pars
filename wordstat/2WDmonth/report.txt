@@ -1,0 +1,12 @@
+Array
+(
+    [keywords] => купить 1с
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                
+    [month] => 2
+    [year] => 2019
+    [region1] => 65535
+    [region2] => 65535
+    [region3] => 65535
+    [region4] => 65535
+    [go] => Запустить
+)
